@@ -1,0 +1,10 @@
+body{
+    background: black;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.navigacion a{
+    color: white;
+}
